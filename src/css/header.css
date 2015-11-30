@@ -1,0 +1,47 @@
+#header
+
+{
+
+	/*background:#3b5990;*/
+	background: #C00; /* Old browsers */
+
+	height: 80px;
+	font-size:35px;
+	padding-left:250px;
+	padding-right:0px;
+    color:#FFF;
+	margin-right:0px;
+	margin-right:0;
+	font-weight:bolder;
+	padding-top:20px;
+
+	
+
+	
+
+}
+
+
+
+.title{
+
+	
+	margin:auto
+	padding-top: auto;
+	float: none;
+	left: auto;
+	top:auto%;
+	}
+
+.p{display:marker;
+    padding:auto;
+    border            :1px solid #777;
+    background        :#ddd;
+	 color             :#d04;
+    margin      :auto;
+	 border-radius     :8px;
+	 -moz-box-shadow   :2px 2px 2px #888;
+	 -webkit-box-shadow:2px 2px 2px #888;
+	 box-shadow        :2px 2px 2px #888; 
+	 }
+
